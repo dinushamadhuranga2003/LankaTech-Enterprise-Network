@@ -1,0 +1,29 @@
+# LankaTech Solutions Enterprise Network
+Enterprise network designed and configured using Cisco Packet Tracer.
+
+     Technologies
+ 
+VLANs
+Inter-VLAN Routing
+DHCP
+OSPF
+ACLs
+SSH
+Port Security
+DHCP Snooping
+Rapid-PVST
+BPDU Guard
+NTP
+Syslog
+SNMP
+Management VLAN
+Guest Network Isolation
+
+     Project Files
+Cisco Packet Tracer .pkt file
+Network topology screenshots
+Testing and verification screenshots
+
+     Purpose
+This project demonstrates practical enterprise networking, routing,
+switching, network management, and basic network security.
